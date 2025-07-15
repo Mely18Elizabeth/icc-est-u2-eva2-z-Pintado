@@ -5,6 +5,8 @@
 
 Implementar la funcionalidad solicitada en la clase `LibroController` para ordenar y gestionar objetos de tipo `Book` utilizando colecciones que mantengan un orden definido.
 
+![captura](testcap.png)
+
 ---
 
 ## 🧩 Modelo
